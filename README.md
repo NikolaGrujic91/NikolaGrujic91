@@ -5,8 +5,8 @@
 #### BIO
 
 - 🏢 I'm currently working at **BIMcollab, KUBUS BV, NL**
-- ⚙️ I use daily: `.C#`, `.cpp`, `.objective-c`, `.dart`
-- 🌱 I’m currently learning `.flutter`, `.dart`
+- ⚙️ I use daily: `.C#`, `.cpp`, `.objective-c`, `.desktop app development`
+- 🌱 I’m currently learning `.flutter`, `.dart`, `.mobile app development`
 - 📫 How to reach me: [twitter.com/grujic_nikola91](https://twitter.com/grujic_nikola91)
 - ⚡ Fun fact: I am a huge fan of science fiction (books, movies, comic books)
 
