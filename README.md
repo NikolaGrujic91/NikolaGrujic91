@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### I am a Software Developer working in Eindhoven, NL
+
+#### BIO
+
+- 🏢 I'm currently working at **BIMcollab, KUBUS BV, NL**
+- ⚙️ I use daily: `.C#`, `.cpp`, `.objective-c`, `.dart`
+- 🌱 I’m currently learning `.flutter`, `.dart`
+- 📫 How to reach me: [twitter.com/grujic_nikola91](https://twitter.com/grujic_nikola91)
+- ⚡ Fun fact: I am a huge fan of science fiction (books, movies, comic books)
+
 <!--
 **NikolaGrujic91/NikolaGrujic91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
