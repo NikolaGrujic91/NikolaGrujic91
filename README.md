@@ -8,7 +8,7 @@
 - ⚙️ I use daily: `.c#`, `.net`, `.winforms`, `.c++`, `.objective-c`, `.cocoa`, `.desktop app development`
 - 🌱 I’m currently learning `.flutter`, `.dart`, `.mobile app development`
 - 📫 How to reach me: [twitter.com/grujic_nikola91](https://twitter.com/grujic_nikola91)
-- ⚡ Fun fact: I am a huge fan of science fiction (books, movies, comic books)
+- ⚡ Fun fact: I'm a huge fan of science fiction (books, movies, comic books)
 
 <!--
 **NikolaGrujic91/NikolaGrujic91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
