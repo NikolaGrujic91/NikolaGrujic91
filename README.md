@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working at **BIMcollab, KUBUS BV, NL**
 - ⚙️ I use daily: `.c#`, `.net`, `.winforms`, `.c++`, `.objective-c`, `.cocoa`, `.desktop app development`
-- 🌱 I’m currently learning `.flutter`, `.dart`, `.mobile app development`
+- 🌱 I’m currently learning `.swiftui`, `.swift`, `.mobile app development`
 - 📫 How to reach me: [twitter.com/grujic_nikola91](https://twitter.com/grujic_nikola91)
 - ⚡ Fun fact: I'm a huge fan of science fiction (books, movies, comic books)
 
